@@ -1,4 +1,4 @@
-[corrente-v7-login-contas.html](https://github.com/user-attachments/files/30527087/corrente-v7-login-contas.html)
+(https://github.com/user-attachments/files/30527087/corrente-v7-login-contas.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
